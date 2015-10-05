@@ -1,0 +1,28 @@
+{
+  "name": "reducks",
+  "version": "1.0.0",
+  "description": "World famous duck recycler. Kinda like redux, but with fewer reducers and more ducks.",
+  "main": "lib/quack.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "quack": "bin/quack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limscoder/reducks.git"
+  },
+  "keywords": [
+    "duck"
+  ],
+  "author": "Dave Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limscoder/reducks/issues"
+  },
+  "homepage": "https://github.com/limscoder/reducks#readme",
+  "dependencies": {
+    "play-sound": "0.0.5"
+  }
+}
