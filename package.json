@@ -1,7 +1,7 @@
 {
   "name": "reducks",
-  "version": "1.0.0",
-  "description": "World famous duck recycler. Kinda like redux, but with fewer reducers and more ducks.",
+  "version": "1.2.0",
+  "description": "World famous revolving duck simulator.",
   "main": "lib/quack.js",
   "scripts": {
     "test": "test"
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/limscoder/reducks#readme",
   "dependencies": {
-    "play-sound": "0.0.5"
+    "play-sound": "0.0.7"
   }
 }
