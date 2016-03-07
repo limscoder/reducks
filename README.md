@@ -1,10 +1,8 @@
 # reducks
 
-World famous revolving duck simulator.
+World famous revolving duck simulator, a command line duck hunt game.
 
-Kinda like [redux](https://github.com/reactjs/redux), but with more ducks.
-
-If you don't like the ducks you can shoot with the enter key.
+Shoot with the enter key.
 
 Requires node 0.12
 
