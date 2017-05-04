@@ -1,6 +1,6 @@
 {
   "name": "reducks",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "World famous revolving duck simulator, a command line duck hunt game.",
   "main": "lib/quack.js",
   "scripts": {
